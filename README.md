@@ -82,7 +82,3 @@ Placeholder: record the final evaluation run here.
 ## AI tools used
 
 GitHub Copilot assisted with implementation and test-oriented reasoning. An early implementation assumed visible evaluation concepts were literal strings; that was incomplete, so the evaluator keeps deterministic assertions focused on explicit string expectations and the agent uses grounded response templates offline.
-
-## Demo GIF
-
-Placeholder: add a 2-4 minute CLI demo GIF showing a cited policy answer, order lookup, multi-turn shipping question, safe handoff, and the evaluation run.
